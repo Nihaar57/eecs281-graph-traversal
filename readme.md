@@ -25,7 +25,7 @@ Warp tiles (0–9) allow transitions between rooms while preserving position.
 ./superMarco [--stack|--queue] [--output M|L]
 ```
 
-Input is read from stdin in either:
+Input is read from stdin in either of two modes:
 
 Map mode (M): grid-based room layouts
 List mode (L): coordinate-based tile definitions
